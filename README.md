@@ -1,4 +1,4 @@
 # Praktikum Kriptogafi
 
-Nama  : Alya Raisa Hidayat;
+Nama  : Alya Raisa Hidayat <br />
 Kelas : B
