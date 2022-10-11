@@ -1,7 +1,7 @@
 /*
 Nama        : Alya Raisa Hidayat
 NPM         : 140810200060
-Deskripsi   : Tugas 5 Praktikum Kriptografi (Vigenere Cipher Enkripsi dan Dekripsi)
+Deskripsi   : Tugas 5 Praktikum Kriptografi (Vigenere Cipher - Enkripsi dan Dekripsi)
 */
 
 #include<iostream>
